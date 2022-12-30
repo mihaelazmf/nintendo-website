@@ -1,0 +1,44 @@
+body{
+    display: block;
+    overflow-x: hidden;
+}
+
+nav {
+    background-color: white;
+}
+
+nav ul li a {
+    color: #CBCBCE;
+    font-size: 20px;
+    font-weight: 500;
+    margin: auto 10px;
+
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(204, 201, 201);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 15px;
+   
+ }
+ hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+  }
+  .row{
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
